@@ -7,8 +7,5 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+As a homeschooled kid in small-town South Carolina, I was extremely interested in computers. Once I realized I had an affinity for technology, I never looked back. After graduating a couple years early from high school, I began my career on graduation day with an internship at a local system integrator shop. I went on to delve into programming, network infrastructure, telephony, and more. Over my career in IT spanning more than 25 years, I’ve collected many certificates [Microsoft, Citrix, Ascom, Genesys, Milestone VMS, C-Cure 9000, etc.], and I even earned my Microsoft MCSE NT 4.0 in the early years. Here recently, I’m currently investing lots of time in Google workspace and Google cloud.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
