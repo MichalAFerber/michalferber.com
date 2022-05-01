@@ -18,18 +18,13 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 facebook: "michalaferber"
-gab: "michalaferber"
-getter: "michalaferber"
 github: "michalaferber"
 instagram: "michalaferber"
-locals: "michalaferber"
 linkedin: "michalaferber"
-signal: "michalaferber"
 telegram: "michalaferber"
-tiktok: "michalaferber"
-truth: "michalaferber"
+tiktok: "@michalaferber48"
 twitter: "michalaferber"
-whatsapp: "michalaferber"
+whatsapp: "18434687811"
 
 highlighter: rouge
 markdown: kramdown
