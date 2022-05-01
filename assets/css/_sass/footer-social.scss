@@ -30,13 +30,15 @@
           transform: rotate(360deg);
 }
 
-.rounded-social-buttons .fa-twitter,
+.rounded-social-buttons .fa-envelope,
 .fa-facebook-f,
-.fa-linkedin,
 .fa-github,
-.fa-orcid,
-.fa-researchgate,
-.fa-envelope {
+.fa-instagram,
+.fa-linkedin,
+.fa-telegram,
+.fa-tiktok,
+.fa-twitter,
+.fa-whatsapp {
   font-size: 25px;
 }
 
@@ -50,15 +52,7 @@
   border-color: #3b5998;
 }
 
-.rounded-social-buttons .social-button.twitter {
-  background: #55acee;
-}
 
-.rounded-social-buttons .social-button.twitter:hover, .rounded-social-buttons .social-button.twitter:focus {
-  color: #55acee;
-  background: #fefefe;
-  border-color: #55acee;
-}
 
 .rounded-social-buttons .social-button.linkedin {
   background: #007bb5;
@@ -90,22 +84,32 @@
   border-color: #000000;
 }
 
-.rounded-social-buttons .social-button.orcid {
-  background: #a6ce3b;
+.rounded-social-buttons .social-button.tiktok {
+  background: #ffffff;
 }
 
-.rounded-social-buttons .social-button.orcid:hover, .rounded-social-buttons .social-button.orcid:focus {
-  color: #a6ce3b;
+.rounded-social-buttons .social-button.tiktok:hover, .rounded-social-buttons .social-button.tiktok:focus {
+  color: #ffffff;
   background: #fefefe;
-  border-color: #a6ce3b;
+  border-color: #ffffff;
 }
 
-.rounded-social-buttons .social-button.researchgate {
-  background: #5dd1b0;
+.rounded-social-buttons .social-button.twitter {
+  background: #55acee;
 }
 
-.rounded-social-buttons .social-button.researchgate:hover, .rounded-social-buttons .social-button.researchgate:focus {
-  color: #5dd1b0;
+.rounded-social-buttons .social-button.twitter:hover, .rounded-social-buttons .social-button.twitter:focus {
+  color: #55acee;
   background: #fefefe;
-  border-color: #5dd1b0;
+  border-color: #55acee;
+}
+
+.rounded-social-buttons .social-button.whatsapp {
+  background: #000000;
+}
+
+.rounded-social-buttons .social-button.whatsapp:hover, .rounded-social-buttons .social-button.whatsapp:focus {
+  color: #000000;
+  background: #fefefe;
+  border-color: #000000;
 }
