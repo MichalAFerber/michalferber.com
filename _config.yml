@@ -4,7 +4,7 @@ title: Michal Ferber
 description: love Jesus, love each other, work hard and play hard
 
 baseurl: /michalferber.com #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "michalferber.com" #custom url to be used instead of GitHub repository
 email: michalaferber@pm.me
 
 
