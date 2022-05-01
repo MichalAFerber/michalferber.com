@@ -11,5 +11,5 @@ As a homeschooled kid in small-town South Carolina, I was extremely interested i
 
 Over my career in IT spanning more than 25+ years, I’ve collected many IT certifications [Microsoft, Citrix, Ascom, Genesys, Milestone VMS, C-Cure 9000, etc.], and I even earned my Microsoft MCSE NT 4.0 in the early years. Here recently, I’m currently investing lots of time in Google workspace and Google cloud.<br />
 
-[Resume](../assets/docs/michal_ferber_resume.pdf){:target="_blank"}<br />
-[Microsoft Transcript](../assets/docs/microsoft_certified_professional_transcript.pdf){:target="_blank"}<br />
+[Resume](/assets/docs/michal_ferber_resume.pdf){:target="_blank"}<br />
+[Microsoft Transcript](/assets/docs/microsoft_certified_professional_transcript.pdf){:target="_blank"}<br />
