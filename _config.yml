@@ -5,7 +5,7 @@ description: love Jesus, love each other, work hard and play hard
 
 baseurl: /michalferber.com #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: michalaferber@pm.me
 
 
 highlighter: rouge
@@ -18,11 +18,18 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 facebook: "michalaferber"
-twitter: "michalaferber"
-linkedin: "michalaferber"
+gab: "michalaferber"
+getter: "michalaferber"
 github: "michalaferber"
-researchgate: "#"
-orcid: "#"
+instagram: "michalaferber"
+locals: "michalaferber"
+linkedin: "michalaferber"
+signal: "michalaferber"
+telegram: "michalaferber"
+tiktok: "michalaferber"
+truth: "michalaferber"
+twitter: "michalaferber"
+whatsapp: "michalaferber"
 
 highlighter: rouge
 markdown: kramdown
