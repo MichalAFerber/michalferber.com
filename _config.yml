@@ -3,7 +3,7 @@
 title: Michal Ferber
 description: love Jesus, love each other, work hard and play hard
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /michalferber.com #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -18,9 +18,9 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 facebook: "michalaferber"
-twitter: "#"
-linkedin: "#"
-github: "#"
+twitter: "michalaferber"
+linkedin: "michalaferber"
+github: "michalaferber"
 researchgate: "#"
 orcid: "#"
 
@@ -57,6 +57,8 @@ include:
 exclude:
   - README.md
   - LICENSE.md
+
+remote_theme: pages-themes/tactile@v0.2.0
 
 plugins:
   - jekyll-seo-tag
