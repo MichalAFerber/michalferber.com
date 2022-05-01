@@ -52,8 +52,6 @@
   border-color: #3b5998;
 }
 
-
-
 .rounded-social-buttons .social-button.linkedin {
   background: #007bb5;
 }
@@ -74,6 +72,16 @@
   border-color: #000000;
 }
 
+.rounded-social-buttons .social-button.instagram {
+  background: #000000;
+}
+
+.rounded-social-buttons .social-button.instagram:hover, .rounded-social-buttons .social-button.instagram:focus {
+  color: #000000;
+  background: #fefefe;
+  border-color: #000000;
+}
+
 .rounded-social-buttons .social-button.email {
   background: #60c17d;
 }
@@ -85,13 +93,13 @@
 }
 
 .rounded-social-buttons .social-button.tiktok {
-  background: #ffffff;
+  background: #000000;
 }
 
 .rounded-social-buttons .social-button.tiktok:hover, .rounded-social-buttons .social-button.tiktok:focus {
-  color: #ffffff;
-  background: #fefefe;
-  border-color: #ffffff;
+  color: #000000;
+  background: #ffffff;
+  border-color: #000000;
 }
 
 .rounded-social-buttons .social-button.twitter {
