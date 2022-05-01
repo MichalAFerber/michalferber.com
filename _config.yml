@@ -21,8 +21,8 @@ facebook: "michalaferber"
 twitter: "michalaferber"
 linkedin: "michalaferber"
 github: "michalaferber"
-researchgate: "#"
-orcid: "#"
+#researchgate: "#"
+#orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
@@ -58,7 +58,7 @@ exclude:
   - README.md
   - LICENSE.md
 
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: pages-themes/gradfolio@v1.1
 
 plugins:
   - jekyll-seo-tag
