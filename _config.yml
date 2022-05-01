@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Michal Ferber
+description: love Jesus, love each other, work hard and play hard
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -17,7 +17,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
+facebook: "michalaferber"
 twitter: "#"
 linkedin: "#"
 github: "#"
@@ -63,3 +63,4 @@ plugins:
   - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
+  - jekyll-remote-theme
