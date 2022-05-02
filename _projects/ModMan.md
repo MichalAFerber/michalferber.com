@@ -4,6 +4,9 @@ title: ModMan
 description: Mod Manager for Farming Simulator 2019
 ---
 
+  * [Installation](#installation)
+  * [Setting It Up](#setting-it-up)
+  * [Advanced Settings](#advanced-settings)
 
 Documentation
 ------------
@@ -16,10 +19,6 @@ Latest Build: [Version 2020.04.23.0001](https://github.com/AriIntegration/ModMan
 Code can be found on [GitHub](https://github.com/AriIntegration/ModMan){:target="_blank"}.
 
 ![Image](/assets/images/ModManAbout.png "About ModMan")
-
-  * [Installation](#installation)
-  * [Setting It Up](#setting-it-up)
-  * [Advanced Settings](#advanced-settings)
 
 Installation
 ------------
