@@ -6,27 +6,17 @@ permalink: /certifications/
 published: true
 ---
 
-<div class="ProjectContainer">
+  {% for certification in site.certifications %}
 
-	<div class="gallery">
+  {% if certification.redirect %}
 
-  {% for project in site.projects %}
+          <a href="{{ certification.redirect }}" target="_blank">
 
-  {% if project.redirect %}
-  <div class="projectTile">
-          <a href="{{ project.redirect }}" target="_blank">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
+              <h2>{{ certification.title }}</h2>
+
+              <p>{{ certification.description }}</p>
           </a>
-  </div>
 
   {% endif %}
 
   {% endfor %}
-
-	</div>
-
-</div>
