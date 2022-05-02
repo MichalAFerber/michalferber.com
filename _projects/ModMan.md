@@ -13,7 +13,7 @@ Documentation
 
 Mod Manager for Farming Simulator 2019. FS19 game xml file and mod manager. Easy to use, simple interface and only one file.
 
-Latest Build: [Version 2020.04.23.0001](https://github.com/AriIntegration/ModMan/releases/download/2020.04.23.001/ModMan_v2020_04_23_0001.zip){:target="_blank"}  |  Code can be found on [GitHub](https://github.com/AriIntegration/ModMan){:target="_blank"}.
+Latest Build: [Version 2020.04.23.0001](https://github.com/AriIntegration/ModMan/releases/download/2020.04.23.001/ModMan_v2020_04_23_0001.zip){:target="_blank"} --- Code can be found on [GitHub](https://github.com/AriIntegration/ModMan){:target="_blank"}.
 
 ![Image](/assets/images/ModManAbout.png "About ModMan")
 
