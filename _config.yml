@@ -47,7 +47,7 @@ compress_html:
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /projects/
 
 sass:
   sass_dir: /assets/css/_sass
