@@ -15,13 +15,13 @@ Now that the program is up and working. You need to define the folders before th
 ###Application Folder###
 If you are running FS19 through Steam then the default installation path is C:\Program Files (x86)\Steam\steamapps\common\Farming Simulator 19. Select this path or wherever you installed FS19. If you don&#8217;t know where, you can right click on the FS19 launch icon and select properties. On that screen, the START IN folder is what you are looking for.
 
-![example image]({{site.baseurl}}/assets/images/FileProperties.png" "FS19 Shortcut File Properties")
+({{site.baseurl}}/assets/images/FileProperties.png" "FS19 Shortcut File Properties")
 
 ###Game Settings Folder###
-The settings folder is the location of the FS19 game.xml and gamesettings.xml. Typically C:\Users\YourNameHere\Documents\My Games\FarmingSimulator2019\.
+The settings folder is the location of the FS19 game.xml and gamesettings.xml. `Typically C:\Users\YourNameHere\Documents\My Games\FarmingSimulator2019\`
 
 ###Mod Folder Root###
-This is the root of the folder that contains all of your different mod folders. If you have never seperated your mods before now, then this folder will have to be created. For me I put my seperate mod folders in the default FS19 mod folder location, typically C:\Users\YourNameHere\Documents\My Games\FarmingSimulator2019\mods\.
+This is the root of the folder that contains all of your different mod folders. If you have never seperated your mods before now, then this folder will have to be created. For me I put my seperate mod folders in the default FS19 mod folder location. `Typically C:\Users\YourNameHere\Documents\My Games\FarmingSimulator2019\mods\`
 
 ({{site.baseurl}}/assets/images/ModMan1.png" "ModMan")
 
@@ -29,13 +29,13 @@ This is the root of the folder that contains all of your different mod folders. 
 Advanced Settings
 ------------
 
- * Developer Mode:
+ * **Developer Mode**
 This enables the developer console in the game which will allow you to type commands. A great article on what you can do with developer mode is here <a href="https://www.yekbot.com/farming-simulator-19-console-commands-developer-console/" target="_blank">https://www.yekbot.com/farming-simulator-19-console-commands-developer-console/</a>
 
- *  Audio:
+ *  **Audio**
  This turns the audio on or off and sets the volume level percentage. `Examples 1.0000 = 100% and 0.7000 = 70%`
  
- * Logging
+ * **Logging**
  This turns the logging for the game on or off and allows you to change the filename the log will use. The default for the game is logging enabled and the log filename log.txt.
 
 ({{site.baseurl}}/assets/images/ModManShowAdvancedMenuOption.png "ModMan Show Advanced Settings")
