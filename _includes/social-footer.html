@@ -26,15 +26,6 @@ target="_blank">
 </a>
 {%- endif -%}
 
-{%- if site.instagram -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'Instagram' }}"
-class="social-button instagram" itemprop="sameAs"
-href="https://www.instagram.com/{{ site.instagram }}"
-target="_blank">
-<i class="fa-brands fa-instagram"></i>
-</a>
-{%- endif -%}
-
 {%- if site.linkedin -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
 class="social-button linkedin" itemprop="sameAs"
@@ -50,15 +41,6 @@ class="social-button telegram" itemprop="sameAs"
 href="https://t.me/{{ site.telegram }}"
 target="_blank">
 <i class="fa-brands fa-telegram"></i>
-</a>
-{%- endif -%}
-
-{%- if site.tiktok -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'TikTok' }}"
-class="social-button tiktok" itemprop="sameAs"
-href="https://tiktok.com/{{ site.tiktok }}"
-target="_blank">
-<i class="fa-brands fa-tiktok"></i>
 </a>
 {%- endif -%}
 
