@@ -4,12 +4,13 @@ title: ModMan
 description: Mod Manager for Farming Simulator 2019
 ---
 
+Documentation
+------------
+
   * [Installation](#installation)
   * [Setting It Up](#setting-it-up)
   * [Advanced Settings](#advanced-settings)
 
-Documentation
-------------
 Mod Manager for Farming Simulator 2019
 
 FS19 game xml file and mod manager. Easy to use, simple interface and only one file.
