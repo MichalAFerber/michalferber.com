@@ -46,9 +46,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  certifications:
+  certificates:
     output: true
-    permalink: /certifications/:path/
+    permalink: /certificates/:path/
 
 sass:
   sass_dir: /assets/css/_sass
