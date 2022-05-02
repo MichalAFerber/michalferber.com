@@ -4,9 +4,6 @@ title: ModMan
 description: Mod Manager for Farming Simulator 2019
 ---
 
-ModMan
-============
-
 Setting It Up
 ------------
 
@@ -27,30 +24,27 @@ C:\Users\YourNameHere\Documents\My Games\FarmingSimulator2019\
 ###Mod Folder Root###
 This is the root of the folder that contains all of your different mod folders. If you have never seperated your mods before now, then this folder will have to be created. For me I put my seperate mod folders in the default FS19 mod folder location.
 
-~~~python
-C:\Users\YourNameHere\Documents\My Games\FarmingSimulator2019\mods\
-~~~
+    ~~~python
+    C:\Users\YourNameHere\Documents\My Games\FarmingSimulator2019\mods\
+    ~~~
 
-({{site.baseurl}}/assets/images/ModMan1.png" "ModMan")
+![ModMan1]({{site.baseurl}}/assets/images/ModMan1.png" "ModMan")
 
 
 Advanced Settings
 ------------
 
- * **Developer Mode**
+  * **Developer Mode**
 This enables the developer console in the game which will allow you to type commands. A great article on what you can do with developer mode is here [https://www.yekbot.com/farming-simulator-19-console-commands-developer-console/](https://www.yekbot.com/farming-simulator-19-console-commands-developer-console/)
+  *  **Audio**
+This turns the audio on or off and sets the volume level percentage.
+    ~~~python
+    Examples 1.0000 = 100% and 0.7000 = 70%
+    ~~~
+  * **Logging**
+This turns the logging for the game on or off and allows you to change the filename the log will use. The default for the game is logging enabled and the log filename log.txt.
 
- *  **Audio**
- This turns the audio on or off and sets the volume level percentage.
- 
- ~~~python
- Examples 1.0000 = 100% and 0.7000 = 70%
- ~~~
- 
- * **Logging**
- This turns the logging for the game on or off and allows you to change the filename the log will use. The default for the game is logging enabled and the log filename log.txt.
+![ModManShowAdvancedMenuOption]({{site.baseurl}}/assets/images/ModManShowAdvancedMenuOption.png "ModMan Show Advanced Settings")
 
-({{site.baseurl}}/assets/images/ModManShowAdvancedMenuOption.png "ModMan Show Advanced Settings")
-
-({{site.baseurl}}/assets/images/ModManSelectedModFolder.png "ModMan Advanced Settings")
+![ModManSelectedModFolder]({{site.baseurl}}/assets/images/ModManSelectedModFolder.png "ModMan Advanced Settings")
 
